@@ -5,7 +5,81 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4386e44-d8ff-4e7b-8be1-883a9cda29e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/myLearnings/WorkingAtMicrosoft.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearnings/practicecode/AttributeQuestion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearnings/practicecode/Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearnings/practicecode/ClassMethods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearnings/practicecode/TryExceptCode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearnings/practicecode/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearnings/practiceset/ProblemNo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearnings/practiceset/ProblemNo10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearnings/practiceset/ProblemNo11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearnings/practiceset/ProblemNo12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearnings/practiceset/ProblemNo13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearnings/practiceset/ProblemNo14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearnings/practiceset/ProblemNo15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearnings/practiceset/ProblemNo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearnings/practiceset/ProblemNo20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearnings/practiceset/ProblemNo21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearnings/practiceset/ProblemNo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearnings/practiceset/ProblemNo4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearnings/practiceset/ProblemNo5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearnings/practiceset/ProblemNo6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearnings/practiceset/ProblemNo7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearnings/practiceset/ProblemNo8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearnings/practiceset/ProblemNo9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearnings/practiceset/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/CelsiusToFahrenheit.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/CelsiusToFahrenheit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/FactUsingRecursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/FactUsingRecursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/Factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/Factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/GenerateTables.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/GenerateTables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/GreaterThanCheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/GreaterThanCheck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/GreatestOf4Nums.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/GreatestOf4Nums.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/GreatestOfThreeNumsUsingFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/GreatestOfThreeNumsUsingFunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/GreetPersonStartsWithS.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/GreetPersonStartsWithS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/InchesToCm.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/InchesToCm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/InputFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/InputFunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/MultiplicationTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/MultiplicationTable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/MultiplicationTableUsingWhileLoop.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/MultiplicationTableUsingWhileLoop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/Poems.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/Poems.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/PracticeSet3.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/PracticeSet3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/PracticeSet4.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/PracticeSet4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/PracticeSet5.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/PracticeSet5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/PrimeNum.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/PrimeNum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/ReverseRightTriangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/ReverseRightTriangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/StarPatternOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/StarPatternOne.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/StringBasicFunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/StringBasicFunctions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/SumOfNaturalNums.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/SumOfNaturalNums.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/SumOfNumsRecursive.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/SumOfNumsRecursive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/TypeCasting.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/TypeCasting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/WhileLoop1to50.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/WhileLoop1to50.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/WhileLoopInList.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/WhileLoopInList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/WorkingAtMicrosoft.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/WorkingAtMicrosoft.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/WritingInFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/WritingInFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/myFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/myFile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/myPoem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/myPoem.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/myLearnings/practicecode/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/table_of_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/table_of_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/table_of_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/table_of_13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/table_of_14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/table_of_15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/table_of_16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/table_of_17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/table_of_18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/table_of_19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/table_of_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/table_of_20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/table_of_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/table_of_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/table_of_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/table_of_6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/table_of_7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/table_of_8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myLearnings/table_of_9.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,13 +100,19 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2sFcqldH4o6sFZYnmmMx6pycS68" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.AttributeQuestion.executor": "Run",
+    "Python.Calculator.executor": "Run",
     "Python.CelsiusToFahrenheit.executor": "Run",
+    "Python.ClassMethods.executor": "Run",
     "Python.FactUsingRecursion.executor": "Run",
     "Python.Factorial.executor": "Run",
     "Python.GenerateTables.executor": "Run",
@@ -49,14 +129,32 @@
     "Python.PracticeSet4.executor": "Run",
     "Python.PracticeSet5.executor": "Run",
     "Python.PrimeNum.executor": "Run",
+    "Python.ProblemNo1.executor": "Run",
+    "Python.ProblemNo10.executor": "Run",
+    "Python.ProblemNo11.executor": "Run",
+    "Python.ProblemNo12.executor": "Run",
+    "Python.ProblemNo13.executor": "Run",
+    "Python.ProblemNo14.executor": "Run",
+    "Python.ProblemNo15.executor": "Run",
+    "Python.ProblemNo2.executor": "Run",
+    "Python.ProblemNo21.executor": "Run",
+    "Python.ProblemNo3.executor": "Run",
+    "Python.ProblemNo4.executor": "Run",
+    "Python.ProblemNo5.executor": "Run",
+    "Python.ProblemNo6.executor": "Run",
+    "Python.ProblemNo7.executor": "Run",
+    "Python.ProblemNo8.executor": "Run",
+    "Python.ProblemNo9.executor": "Run",
     "Python.ReverseRightTriangle.executor": "Run",
     "Python.StarPatternOne.executor": "Run",
     "Python.StringBasicFunctions.executor": "Run",
     "Python.SumOfNaturalNums.executor": "Run",
     "Python.SumOfNumsRecursive.executor": "Run",
+    "Python.TryExceptCode.executor": "Run",
     "Python.TypeCasting.executor": "Run",
     "Python.WhileLoop1to50.executor": "Run",
     "Python.WhileLoopInList.executor": "Run",
+    "Python.WorkingAtMicrosoft.executor": "Run",
     "Python.WritingInFile.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -72,83 +170,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python-programming\my-python-lab\myLearnings\practicecode" />
       <recent name="D:\python-programming\my-python-lab" />
       <recent name="C:\Users\nuruddin.jagirdar\PycharmProjects\PythonProject\myLearnings\.venv\tables" />
       <recent name="C:\Users\nuruddin.jagirdar\PycharmProjects\PythonProject\myLearnings" />
       <recent name="C:\Users\nuruddin.jagirdar\PycharmProjects\PythonProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.WorkingAtMicrosoft">
-    <configuration name="GenerateTables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myLearnings" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myLearnings/GenerateTables.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="InchesToCm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myLearnings" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myLearnings/InchesToCm.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Poems" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myLearnings" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myLearnings/Poems.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="WorkingAtMicrosoft" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ProblemNo21">
+    <configuration name="ClassMethods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my-python-lab" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,12 +187,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myLearnings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myLearnings/practicecode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myLearnings/WorkingAtMicrosoft.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myLearnings/practicecode/ClassMethods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,8 +201,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="WritingInFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject" />
+    <configuration name="ProblemNo14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my-python-lab" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -180,12 +210,81 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myLearnings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myLearnings/practiceset" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myLearnings/WritingInFile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myLearnings/practiceset/ProblemNo14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ProblemNo15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my-python-lab" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myLearnings/practiceset" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myLearnings/practiceset/ProblemNo15.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ProblemNo21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my-python-lab" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myLearnings/practiceset" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myLearnings/practiceset/ProblemNo21.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TryExceptCode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my-python-lab" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myLearnings/practicecode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myLearnings/practicecode/TryExceptCode.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,11 +295,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.WorkingAtMicrosoft" />
-        <item itemvalue="Python.GenerateTables" />
-        <item itemvalue="Python.Poems" />
-        <item itemvalue="Python.WritingInFile" />
-        <item itemvalue="Python.InchesToCm" />
+        <item itemvalue="Python.ProblemNo21" />
+        <item itemvalue="Python.TryExceptCode" />
+        <item itemvalue="Python.ClassMethods" />
+        <item itemvalue="Python.ProblemNo15" />
+        <item itemvalue="Python.ProblemNo14" />
       </list>
     </recent_temporary>
   </component>
@@ -221,50 +320,82 @@
       <option name="presentableId" value="Default" />
       <updated>1738054958312</updated>
       <workItem from="1738054959128" duration="33233000" />
-      <workItem from="1738147157490" duration="1123000" />
+      <workItem from="1738147157490" duration="41429000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/myLearnings/PracticeSet4.py</url>
+          <url>file://$PROJECT_DIR$/myLearnings/practicecode/PracticeSet4.py</url>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/my_python_lab$ProblemNo2.coverage" NAME="ProblemNo2 Coverage Results" MODIFIED="1738215584170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings/practiceset" />
+    <SUITE FILE_PATH="coverage/my_python_lab$ProblemNo5.coverage" NAME="ProblemNo5 Coverage Results" MODIFIED="1738218941956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings/practiceset" />
     <SUITE FILE_PATH="coverage/PythonProject$MultiplicationTable.coverage" NAME="MultiplicationTable Coverage Results" MODIFIED="1738092871689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings" />
+    <SUITE FILE_PATH="coverage/my_python_lab$ProblemNo8.coverage" NAME="ProblemNo8 Coverage Results" MODIFIED="1738220951264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings/practiceset" />
+    <SUITE FILE_PATH="coverage/PythonProject$PracticeSet4.coverage" NAME="PracticeSet4 Coverage Results" MODIFIED="1738070095630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/PythonProject$StarPatternOne.coverage" NAME="StarPatternOne Coverage Results" MODIFIED="1738129228659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings" />
+    <SUITE FILE_PATH="coverage/PythonProject$StringBasicFunctions.coverage" NAME="StringBasicFunctions Coverage Results" MODIFIED="1738065297945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/PythonProject$Poems.coverage" NAME="Poems Coverage Results" MODIFIED="1738140833146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings" />
+    <SUITE FILE_PATH="coverage/PythonProject$SumOfNaturalNums.coverage" NAME="SumOfNaturalNums Coverage Results" MODIFIED="1738094575239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings" />
+    <SUITE FILE_PATH="coverage/my_python_lab$ProblemNo13.coverage" NAME="ProblemNo13 Coverage Results" MODIFIED="1738227191474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings/practiceset" />
+    <SUITE FILE_PATH="coverage/PythonProject$CelsiusToFahrenheit.coverage" NAME="CelsiusToFahrenheit Coverage Results" MODIFIED="1738133297488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings" />
+    <SUITE FILE_PATH="coverage/PythonProject$GreaterThanCheck.coverage" NAME="GreaterThanCheck Coverage Results" MODIFIED="1738064751306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/my_python_lab$ProblemNo10.coverage" NAME="ProblemNo10 Coverage Results" MODIFIED="1738222553813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings/practiceset" />
+    <SUITE FILE_PATH="coverage/my_python_lab$ProblemNo3.coverage" NAME="ProblemNo3 Coverage Results" MODIFIED="1738217276072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings/practiceset" />
+    <SUITE FILE_PATH="coverage/my_python_lab$ProblemNo15.coverage" NAME="ProblemNo15 Coverage Results" MODIFIED="1738227712733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings/practiceset" />
+    <SUITE FILE_PATH="coverage/my_python_lab$TryExceptCode.coverage" NAME="TryExceptCode Coverage Results" MODIFIED="1738393752121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings/practicecode" />
+    <SUITE FILE_PATH="coverage/my_python_lab$ProblemNo4.coverage" NAME="ProblemNo4 Coverage Results" MODIFIED="1738217523227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings/practiceset" />
+    <SUITE FILE_PATH="coverage/my_python_lab$ProblemNo21.coverage" NAME="ProblemNo21 Coverage Results" MODIFIED="1738510749281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings/practiceset" />
+    <SUITE FILE_PATH="coverage/my_python_lab$ProblemNo9.coverage" NAME="ProblemNo9 Coverage Results" MODIFIED="1738221945690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings/practiceset" />
     <SUITE FILE_PATH="coverage/PythonProject$Factorial.coverage" NAME="Factorial Coverage Results" MODIFIED="1738094965002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings" />
     <SUITE FILE_PATH="coverage/PythonProject$WhileLoopInList.coverage" NAME="WhileLoopInList Coverage Results" MODIFIED="1738085400586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
-    <SUITE FILE_PATH="coverage/PythonProject$PracticeSet4.coverage" NAME="PracticeSet4 Coverage Results" MODIFIED="1738070095630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/my_python_lab$WorkingAtMicrosoft.coverage" NAME="WorkingAtMicrosoft Coverage Results" MODIFIED="1738150072556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings" />
     <SUITE FILE_PATH="coverage/PythonProject$TypeCasting.coverage" NAME="TypeCasting Coverage Results" MODIFIED="1738057266092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$InputFunction.coverage" NAME="InputFunction Coverage Results" MODIFIED="1738057667104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/PythonProject$GreatestOf4Nums.coverage" NAME="GreatestOf4Nums Coverage Results" MODIFIED="1738084358119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/PythonProject$ReverseRightTriangle.coverage" NAME="ReverseRightTriangle Coverage Results" MODIFIED="1738134214253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings" />
     <SUITE FILE_PATH="coverage/PythonProject$WritingInFile.coverage" NAME="WritingInFile Coverage Results" MODIFIED="1738135590457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings" />
     <SUITE FILE_PATH="coverage/PythonProject$FactUsingRecursion.coverage" NAME="FactUsingRecursion Coverage Results" MODIFIED="1738132134542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings" />
-    <SUITE FILE_PATH="coverage/PythonProject$StarPatternOne.coverage" NAME="StarPatternOne Coverage Results" MODIFIED="1738129228659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings" />
-    <SUITE FILE_PATH="coverage/PythonProject$StringBasicFunctions.coverage" NAME="StringBasicFunctions Coverage Results" MODIFIED="1738065297945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
-    <SUITE FILE_PATH="coverage/PythonProject$Poems.coverage" NAME="Poems Coverage Results" MODIFIED="1738140833146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings" />
-    <SUITE FILE_PATH="coverage/PythonProject$SumOfNaturalNums.coverage" NAME="SumOfNaturalNums Coverage Results" MODIFIED="1738094575239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings" />
+    <SUITE FILE_PATH="coverage/my_python_lab$ProblemNo11.coverage" NAME="ProblemNo11 Coverage Results" MODIFIED="1738225544770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings/practiceset" />
+    <SUITE FILE_PATH="coverage/my_python_lab$ProblemNo14.coverage" NAME="ProblemNo14 Coverage Results" MODIFIED="1738227484538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings/practiceset" />
     <SUITE FILE_PATH="coverage/PythonProject$MultiplicationTableUsingWhileLoop.coverage" NAME="MultiplicationTableUsingWhileLoop Coverage Results" MODIFIED="1738092893922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings" />
+    <SUITE FILE_PATH="coverage/my_python_lab$ClassMethods.coverage" NAME="ClassMethods Coverage Results" MODIFIED="1738393033351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings/practicecode" />
     <SUITE FILE_PATH="coverage/PythonProject$PracticeSet5.coverage" NAME="PracticeSet5 Coverage Results" MODIFIED="1738072105740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
-    <SUITE FILE_PATH="coverage/PythonProject$CelsiusToFahrenheit.coverage" NAME="CelsiusToFahrenheit Coverage Results" MODIFIED="1738133297488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings" />
     <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1738055531739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$GenerateTables.coverage" NAME="GenerateTables Coverage Results" MODIFIED="1738142546713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings" />
     <SUITE FILE_PATH="coverage/PythonProject$SumOfNumsRecursive.coverage" NAME="SumOfNumsRecursive Coverage Results" MODIFIED="1738133536334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings" />
-    <SUITE FILE_PATH="coverage/PythonProject$GreaterThanCheck.coverage" NAME="GreaterThanCheck Coverage Results" MODIFIED="1738064751306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/PythonProject$PrimeNum.coverage" NAME="PrimeNum Coverage Results" MODIFIED="1738094157901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings" />
+    <SUITE FILE_PATH="coverage/my_python_lab$ProblemNo6.coverage" NAME="ProblemNo6 Coverage Results" MODIFIED="1738219845870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings/practiceset" />
+    <SUITE FILE_PATH="coverage/my_python_lab$Calculator.coverage" NAME="Calculator Coverage Results" MODIFIED="1738152877146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings" />
+    <SUITE FILE_PATH="coverage/my_python_lab$ProblemNo7.coverage" NAME="ProblemNo7 Coverage Results" MODIFIED="1738220433400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings/practiceset" />
+    <SUITE FILE_PATH="coverage/my_python_lab$AttributeQuestion.coverage" NAME="AttributeQuestion Coverage Results" MODIFIED="1738153205901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings" />
     <SUITE FILE_PATH="coverage/PythonProject$PracticeSet3.coverage" NAME="PracticeSet3 Coverage Results" MODIFIED="1738066693576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/PythonProject$GreetPersonStartsWithS.coverage" NAME="GreetPersonStartsWithS Coverage Results" MODIFIED="1738092396049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings" />
+    <SUITE FILE_PATH="coverage/my_python_lab$ProblemNo12.coverage" NAME="ProblemNo12 Coverage Results" MODIFIED="1738226723521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings/practiceset" />
     <SUITE FILE_PATH="coverage/PythonProject$WhileLoop1to50.coverage" NAME="WhileLoop1to50 Coverage Results" MODIFIED="1738085154886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/PythonProject$GreatestOfThreeNumsUsingFunction.coverage" NAME="GreatestOfThreeNumsUsingFunction Coverage Results" MODIFIED="1738132678826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings" />
+    <SUITE FILE_PATH="coverage/my_python_lab$ProblemNo1.coverage" NAME="ProblemNo1 Coverage Results" MODIFIED="1738214933471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings/practiceset" />
     <SUITE FILE_PATH="coverage/PythonProject$InchesToCm.coverage" NAME="InchesToCm Coverage Results" MODIFIED="1738134363652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myLearnings" />
   </component>
 </project>
