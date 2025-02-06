@@ -5,11 +5,11 @@ num1 = int(input("Enter num1: "))
 num2 = int(input("Enter num2: "))
 myOperator = input("Enter your operator: ")
 
-if(myOperator == "+"):
+if myOperator == "+":
     result = num1+num2
-elif(myOperator == "-"):
+elif myOperator == "-":
     result = num1+num2
-elif(myOperator == "*"):
+elif myOperator == "*":
     result = num1*num2
 else:
     result = num1/num2
